@@ -1,13 +1,15 @@
 # ============================================
-# IEEE Synchronic Web Analyzer - Dependencies
+# SynGrid v4.0 — Dependencies
 # ============================================
 
-# Core dependencies for the GUI application (synchronic_web_enhanced_v2.py)
+# Core dependencies (GUI + Bridge)
 matplotlib>=3.5.0
 numpy>=1.21.0
 Pillow>=9.0.0
+pypower>=5.1.4
 
-# Additional dependencies for the backend engine (Real_SW.py)
+# Optional dependencies for the backend engine (Real_SW.py)
+# The application runs without these — graceful fallbacks are built in.
 networkx>=3.0
 websockets>=11.0.0
 cryptography>=41.0.0

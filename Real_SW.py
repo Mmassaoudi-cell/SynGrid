@@ -15,6 +15,8 @@ Enhanced Features:
 - Real-time Performance Guarantees
 - Advanced Cyber Attack Simulation
 
+Authors: Following Sandia's SW specification
+Institution: Implementing true SW for power system anomaly detection
 """
 
 import hashlib
