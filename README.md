@@ -2,9 +2,6 @@
 
 **Production-Grade Power System Anomaly Detection with Synchronic Web Architecture and PyPower Integration**
 
-Developed by **Mohamed Massaoudi, PhD** — Senior Research Engineer & Lab Manager  
-Electrical and Computer Engineering, Texas A&M University  
-Resilient Energy Systems Lab (RESLab) | TEES Smart Grid Center
 
 ---
 
@@ -277,3 +274,4 @@ If you use SynGrid in your research, please cite:
 ## License
 
 MIT License — Copyright © 2025 Texas A&M University. See [LICENSE](LICENSE) for details.
+
